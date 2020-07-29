@@ -1,2 +1,4 @@
 # bahmni-testcafe
-Automation Test suite for Bahmni
+Bahmni - functional tests in Testcafe
+
+
